@@ -1,0 +1,25 @@
+{
+  "name": "graphql-with-sequalize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-node5": "^11.1.0",
+    "express": "^4.13.4",
+    "express-graphql": "^0.5.3",
+    "faker": "^3.1.0",
+    "graphiql": "^0.7.1",
+    "graphql": "^0.6.0",
+    "lodash": "^4.13.1",
+    "pg": "^4.5.6",
+    "pg-hstore": "^2.3.2",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "sequelize": "^3.23.3"
+  }
+}
